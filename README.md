@@ -79,7 +79,7 @@ Follow these quick steps to set up and run the project locally:
 
 1. **Clone or Extract the Repository**:
    ```bash
-   git clone https://github.com/your-username/auth_ui_kit.git
+   https://github.com/jaimonvarghese/Flutter-Authentication-UI-Kit.git
    cd auth_ui_kit
    ```
 
@@ -209,9 +209,7 @@ This product is licensed for personal and commercial projects under the **Commer
 
 If you have any questions, issue reports, or custom feature requests, feel free to reach out:
 
-- 📧 **Email**: support@example.com
-- 💬 **Documentation**: [Walkthrough & Architecture Guide](walkthrough.md)
-- 🌐 **Website**: https://example.com
+- 📧 **Email**: jaimonvarghese1224@gmail.com
 
 ---
 
